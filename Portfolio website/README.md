@@ -1,5 +1,4 @@
 # Portfolio Website
-
 Welcome to my personal portfolio website! This project showcases my web development skills and includes examples of my work, such as projects, blogs, and contact information.
 
 ## Table of Contents
