@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
+- [Usage](#usage) 
 
 ## Introduction 
 This is a simple, responsive portfolio website built using HTML and CSS. It highlights my skills, projects, and experience as a web developer. Feel free to explore and reach out if you have any questions or opportunities!
